@@ -6,7 +6,7 @@ test
 
 test brach b
 
-![pytest workflow] 123 (https://github.com/TuragaLab/flybody/actions/workflows/pytest.yml/badge.svg)
+![pytest workflow](https://github.com/TuragaLab/flybody/actions/workflows/pytest.yml/badge.svg)
 ![python versions](https://github.com/TuragaLab/flybody/actions/workflows/pyversions.yml/badge.svg)
 ![lint](https://github.com/TuragaLab/flybody/actions/workflows/lint.yml/badge.svg)
 ![tf](https://github.com/TuragaLab/flybody/actions/workflows/tf-test.yml/badge.svg)
